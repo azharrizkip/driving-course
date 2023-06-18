@@ -37,7 +37,7 @@
                     <div class="inner-box">
                         <div class="icon"><i class="flaticon-map"></i></div>
                         <div class="text">Kunjungi Kami Di</div>
-                        <h4>Jl. Jenderal Sudirman,<br> Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta</h4>
+                        <h4>Jl. Kebon Sirih No.Kav. 17,<br> Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta</h4>
                     </div>
                 </div>
                 <div class="col-lg-4 icon_box">
